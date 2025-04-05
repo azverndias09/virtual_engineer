@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462253911700",
+    "firebase_url": "https://esptrial1-e2df8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esptrial1-e2df8",
+    "storage_bucket": "esptrial1-e2df8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462253911700:android:8c2d590f9243de5f6d0e81",
+        "android_client_info": {
+          "package_name": "com.example.motor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_VZMzuxtxomBAOFEqRizoVwZFeyYiMAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
